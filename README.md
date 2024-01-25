@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matei-Lazar
+- 👋 Hi,
 - 👀 I’m interested in Artificial Intelligence, Data Engineering, reading books, the Universe. 
 - 🌱 I’m currently working as a Data Engineer. 
 
